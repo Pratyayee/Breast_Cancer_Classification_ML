@@ -1,6 +1,6 @@
 # Breast_Cancer_Classification_ML
 
-# Data Set:
+# Dataset:
 Import from SkLearn.datasets
 
 # Explanation:
@@ -15,7 +15,7 @@ I have converted the dataset into a dataframe first to do the classification. Th
 
 •	MLP (Multi-Layer Perceptron)
 
-# Result:
+# Results:
 I)
 •	KNN – K Nearest Neighbourhood (N – neighbours = 7) -
 1.	Training Accuracy: 0.969
