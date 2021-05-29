@@ -4,7 +4,7 @@
 Import from SkLearn.datasets
 
 # Explanation:
-I have converted the dataset into a dataframe first to do the classification. Then I have splitted the dataset column wise into two parts, one is the predicted part and other is the target part. The dataset is also splitted row wise into two parts, train set and testing set with test size 0.3. I have scaled all the attributes of the data, because they are too much scattered. Then I have plotted the scaled dataset.
+I have converted the dataset into a dataframe first to do the classification. Then I have splitted the dataset column wise into two parts, one is the predicted part and other is the target part. The dataset is also splitted row wise into two parts, training set and testing set with test size 0.3. I have scaled all the attributes of the data, because they are too much scattered. Then I have plotted the scaled dataset.
 
 # Model Used: 
 •	KNN – K Nearest Neighbourhood (N – neighbours = 7)
